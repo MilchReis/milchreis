@@ -10,5 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milchreis&layout=compact" alt="milchreis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milchreis&show_icons=true" alt="milchreis" /></p>
+<!-- p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milchreis&show_icons=true" alt="milchreis" /></p -->
 
