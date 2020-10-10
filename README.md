@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milchreis" alt="milchreis" /> </p>
+<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=milchreis" alt="milchreis" /></p -->
+
 <p align="left">
 <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -8,7 +9,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 	</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milchreis&layout=compact" alt="milchreis" /></p>
+<!-- p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milchreis&layout=compact" alt="milchreis" /></p -->
 
 <!-- p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milchreis&show_icons=true" alt="milchreis" /></p -->
 
